@@ -543,3 +543,6 @@ iframe {
     width: 1360px;
   }
 }
+.btn-img{
+  cursor: pointer;
+}
